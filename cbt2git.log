@@ -1,0 +1,13 @@
+2023-08-06 06:58:47.192596 - Initialized conversion of CBT768
+2023-08-06 06:58:47.405110 - Received CBT.V505.FILE768.PDS from FILE768.XMI 
+2023-08-06 06:58:47.408016 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:58:47.409386 - Found @FILE768.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/@FILE768
+2023-08-06 06:58:47.410614 - Found IEBUPDAP.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/IEBUPDAP
+2023-08-06 06:58:47.412865 - Found IEBUPDEX.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/IEBUPDEX
+2023-08-06 06:58:47.412901 - Found VTT2CMS.bin containing application/octet-stream, moved to PDS/VTT2CMS
+2023-08-06 06:58:47.415491 - Found VTT2DOC.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/VTT2DOC
+2023-08-06 06:58:47.415507 - Found VTT2EXEC.bin containing application/octet-stream, moved to PDS/VTT2EXEC
+2023-08-06 06:58:47.418032 - Found VTT2JCL.txt (text/plain) in CBT.V505.FILE768.PDS, moved to PDS/VTT2JCL
+2023-08-06 06:58:47.418047 - Found VTT2SRCE.bin containing application/octet-stream, moved to PDS/VTT2SRCE
+2023-08-06 06:58:47.419805 - Found VTT2TEST.bin containing application/octet-stream, moved to PDS/VTT2TEST
+2023-08-06 06:58:47.420839 - Found VTT2TEXT.bin containing application/octet-stream, moved to PDS/VTT2TEXT
